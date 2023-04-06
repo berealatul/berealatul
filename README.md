@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @berealatul
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on problems related to c language
+- 🌱 I’m currently learning c++ language
+- 💞️ I’m looking to collaborate on problems related to c++ language
 - 📫 berealatul@gmail.com
 
 <!---
